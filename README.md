@@ -1,2 +1,2 @@
 # review-the-reviewer-v2
-Rettky's MV Trials
+Retky's MV Trials
