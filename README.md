@@ -19,9 +19,7 @@ You don't know how to fork a project? [Click hear](https://help.github.com/artic
 ## Authors
 Jose Luiz (Retky)
 - GitHub: [@retky](https://github.com/retky)
-
-## Contributing
-Contributions, issues and feature requests are very welcome!
+Thank you, Jose Luiz for contributing with your own project for this review!
 
 ## 📝License
 This project is [MIT](https://github.com/mrjuda/review-the-reviewer-v2/blob/main/LICENSE) licensed.
